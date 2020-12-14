@@ -12,3 +12,5 @@ CS 7311 Class Project Code, Fall 2020 [report](FakeNews-Report.pdf)
 
 * author: [Maria Tomasso](https://mtomasso.github.io/)
 * source [code](structure/)
+
+[Fake News DataLab page](https://datalab12.github.io/work/fake-news.html)
