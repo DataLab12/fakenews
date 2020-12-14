@@ -2,14 +2,14 @@
 
 The code used for the coarse and fine grained text classification, and classification augmented by OCR on Tweet images, as well as Lia Nogueria's community labels are included in the ```./expirements/``` folder.
 
-* [001 - Fine-grained text classification](https://git.txstate.edu/CS7311/a-m730/blob/master/Project/source/expirements/001.ipynb)
-* [002 - Fine-grained text classification with OCR](https://git.txstate.edu/CS7311/a-m730/blob/master/Project/source/expirements/002.ipynb)
-* [004 - Fine-grained text classification with community labels](https://git.txstate.edu/CS7311/a-m730/blob/master/Project/source/expirements/004.ipynb)
-* [011 - Coarse-grained text classification](https://git.txstate.edu/CS7311/a-m730/blob/master/Project/source/expirements/011.ipynb)
-* [012 - Coarse-grained text classification with OCR](https://git.txstate.edu/CS7311/a-m730/blob/master/Project/source/expirements/012.ipynb)
-* [014 - Coarse-grained text classification with community labels](https://git.txstate.edu/CS7311/a-m730/blob/master/Project/source/expirements/014.ipynb)
+* [001 - Fine-grained text classification](notebooks/001.ipynb)
+* [002 - Fine-grained text classification with OCR](notebooks/002.ipynb)
+* [004 - Fine-grained text classification with community labels](notebooks/004.ipynb)
+* [011 - Coarse-grained text classification](notebooks/011.ipynb)
+* [012 - Coarse-grained text classification with OCR](notebooks/012.ipynb)
+* [014 - Coarse-grained text classification with community labels](notebooks/014.ipynb)
 
-**Note: These expirements are run in the [benchmark.ipynb]() notebook that imports libraries, loads data, gathers pipelines, and outputs results.**
+**Note: These expirements are run in the [benchmark.ipynb](../benchmark.ipynb) notebook that imports libraries, loads data, gathers pipelines, and outputs results.**
 
 ### Creating New Expriments
 

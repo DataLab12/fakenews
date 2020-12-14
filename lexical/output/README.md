@@ -15,7 +15,7 @@ Contents:
         * 1: 5G Conspiracy
         * 2: Other-Conspiracy
         * 3: Non-Conspiracy
-* **image_terms_fiveg.csv**
-* **image_terms_nocon.csv**
-* **image_terms_other.csv**
-* **image_terms_test.csv**
+* **[image_terms_fiveg.csv](image_terms_fiveg.csv)**
+* **[image_terms_nocon.csv](image_terms_nocon.csv)**
+* **[image_terms_other.csv](image_terms_other.csv)**
+* **[image_terms_test.csv](image_terms_test.csv)**
